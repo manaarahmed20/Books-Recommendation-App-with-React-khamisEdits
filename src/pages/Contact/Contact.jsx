@@ -90,7 +90,7 @@ export default function About() {
                               </div>
                             </div>
                             <div className="col-lg-4 col-md-5 d-flex align-items-stretch ">
-                              <div className="info-wrap bg-primary w-100 p-md-5 p-4">
+                              <div className="info-wrap bg-success w-100 p-md-5 p-4">
                                 <h3>Let's get in touch</h3>
                                 <p className="mb-4">We're open for any suggestion or just to have a chat</p>
                                 <div className="dbox w-100 d-flex align-items-start">

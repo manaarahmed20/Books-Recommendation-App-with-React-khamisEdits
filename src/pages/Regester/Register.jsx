@@ -75,7 +75,10 @@ export default function Register() {
           placeholder="Confirm Password"
           required
         />
-        <button type="submit">Submit</button>
+        <div class="d-flex justify-content-center">
+  <button type="submit" class="btn btn-success">Submit</button>
+</div>
+
       </form>
     </div>
   );
