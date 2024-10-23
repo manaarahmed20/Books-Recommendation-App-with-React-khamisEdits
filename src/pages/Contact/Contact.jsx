@@ -79,7 +79,7 @@ export default function About() {
                                         <textarea name="message" className="form-control" id="message" cols={30} rows={4} placeholder="Message" defaultValue={""} />
                                       </div>
                                     </div>
-                                    <div className="col-md-12">
+                                    <div className="col-md-12 m-2">
                                       <div className="form-group">
                                         <input type="submit" defaultValue="Send Message" className="btn btn-success" />
                                         <div className="submitting" />
@@ -89,7 +89,7 @@ export default function About() {
                                 </form>
                               </div>
                             </div>
-                            <div className="col-lg-4 col-md-5 d-flex align-items-stretch">
+                            <div className="col-lg-4 col-md-5 d-flex align-items-stretch ">
                               <div className="info-wrap bg-primary w-100 p-md-5 p-4">
                                 <h3>Let's get in touch</h3>
                                 <p className="mb-4">We're open for any suggestion or just to have a chat</p>

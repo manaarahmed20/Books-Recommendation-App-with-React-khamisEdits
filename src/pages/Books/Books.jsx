@@ -102,7 +102,7 @@ const Pagination = ({ booksPerPage, totalBooks, paginate, currentPage }) => {
       <ul className='pagination'>
         {pageNumbers.map(number => (
           <li key={number} className={`page-item ${currentPage === number ? 'active' : ''}`}>
-            <button onClick={() => paginate(number)} className='page-link'>
+            <button onClick={() => paginate(number)} className='page-link bg-success'>
               {number}
             </button>
           </li>

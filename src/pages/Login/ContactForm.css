@@ -92,7 +92,7 @@ border-radius: 40px;
 box-shadow: 0 0 10px rgba(0 ,0,0,.1);
 cursor: pointer;
 font-size: 16px;
-color: #333;
+color: #fff;
 font-weight: 600;
 }
 
@@ -111,8 +111,6 @@ font-weight:600 ;
 .login .register-link p a:hover{
     text-decoration: underline;
 }
-
-
 
 
 
